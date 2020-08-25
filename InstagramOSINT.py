@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# Instagram Scraper
+# Instagram Ali Alizadeh
 # Coded by sc1341 
 # http://github.com/HtrTech/InstagramOSINT
 # I am not responsible for anything you do with this script
