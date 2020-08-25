@@ -8,6 +8,9 @@ banner = '''
 ╚═╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═════╝ ╚══════╝╚═╝╚═╝  ╚═══╝   ╚═╝   
                                                                                                                      
 Created By HTR TECH (Ali Alizadeh)
-Our website HTR-TECH.xyz
+
+Our website : HTR-TECH.xyz
+
+Our Email : htr-tech@outlook.com
 
 '''
