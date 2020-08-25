@@ -1,7 +1,7 @@
 #! /usr/bin/env python3
 # Instagram Scraper
-# Coded by sc1341 
-# http://github.com/sc1341/InstagramOSINT
+# Coded by Ali Alizadeh 
+# http://github.com/HtrTech/InstagramOSINT
 # I am not responsible for anything you do with this script
 # This is the main script meant to be run from the command line
 #
